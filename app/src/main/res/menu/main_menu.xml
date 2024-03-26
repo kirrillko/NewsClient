@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_filter_date"
+        android:title="По дате" />
+    <item
+        android:id="@+id/item_filter_text"
+        android:title="По тексту" />
+    <item
+        android:id="@+id/item_sort_up"
+        android:title="По возрастанию" />
+    <item
+        android:id="@+id/item_sort_down"
+        android:title="По убыванию" />
+    <item
+        android:id="@+id/item_reset"
+        android:title="Сброс" />
+</menu>

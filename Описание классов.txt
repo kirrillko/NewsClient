@@ -1,0 +1,10 @@
+Для получения новостей используется api World News API https://worldnewsapi.com/docs/
+
+MainActivity.java - главное окно
+NewsAdapter.java - класс адаптера для вывода списка новостей
+NewsApiClient.java - класс для отправления запросов в api
+NewsDetailActivity.java - окно для вывода полной информации
+
+Классы в папке models
+NewsItem.java - класс для хранения новости
+NewsResponse.java - класс для хранения полного ответа от api
